@@ -1,6 +1,6 @@
 [versions]
 # Gradle plugins
-android-gradle-plugin = "8.5.2"
+android-gradle-plugin = "8.10.0"
 kotlin-gradle-plugin = "2.0.10"
 ksp-gradle-plugin = "2.0.10-1.0.24"
 spotless-gradle-plugin = "6.25.0"
